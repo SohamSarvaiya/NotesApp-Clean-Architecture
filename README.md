@@ -1,4 +1,5 @@
-Notes App 2024 🚀
+Notes App 2024 - Jetpack Compose 🚀
+
 This Notes App is a feature-rich application built with Jetpack Compose (2024), designed to showcase best practices in modern Android development. It leverages MVVM (Model-View-ViewModel) architecture, dependency injection with Hilt and Dagger, and efficient local storage using Room Database. The app provides a seamless, user-friendly experience for managing notes while adhering to clean code principles.
 
 ![NotesSS](https://github.com/user-attachments/assets/fbc00708-a77a-43ad-b2b0-dc3b77df2bba)
