@@ -1,7 +1,7 @@
 [versions]
 agp = "8.6.1"
 hiltCompilerVersion = "1.2.0"
-kotlin = "1.9.0"
+kotlin = "2.0.0"
 coreKtx = "1.15.0"
 junit = "4.13.2"
 junitVersion = "1.2.1"
@@ -56,6 +56,7 @@ kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-c
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
-kotlin-kapt = { id = "kotlin-kapt", version = "1.9.10" } # Replace with your version
-hilt-android = { id = "com.google.dagger.hilt.android", version = "2.48" } # Replace with your version
+kotlin-kapt = { id = "kotlin-kapt", version = "1.9.10" }
+hilt-android = { id = "com.google.dagger.hilt.android", version = "2.48" }
+compose-compiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 
