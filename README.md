@@ -8,10 +8,7 @@ This Notes App is a feature-rich application built with Jetpack Compose (2024), 
 The MVVM architecture ensures a clear separation of concerns and scalability:
 This architecture makes the app modular, testable, and easy to maintain.
 
-
-
-🌟 Key Features:
-🔹 Core Functionalities:
+🌟 Key Features, 🔹 Core Functionalities:
 Add, Edit, and Delete Notes: Users can create, update, or remove notes with instant UI updates, thanks to Jetpack Compose's state management.
 Room Database Integration: Securely stores notes locally, enabling offline usage.
 
@@ -26,7 +23,6 @@ Ascending/Descending Filters: Flexible sorting options for better usability.
 Built using Jetpack Compose, ensuring a responsive and modern UI experience.
 Efficient state handling and smooth UI transitions, without unnecessary screen refreshes.
 
-
 🛠️ Technologies Used:
 📌 Jetpack Compose
 The latest declarative UI toolkit for building modern Android interfaces.
@@ -38,7 +34,6 @@ Supports SQL queries and ensures thread-safe operations.
 
 📌 Hilt & Dagger
 Simplifies dependency injection, making the code cleaner and easier to test.
-
 
 ⭐️ Support This Project
 If you find this project useful or insightful, please give it a ⭐️ on GitHub and follow me for more exciting projects!
